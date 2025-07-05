@@ -6,12 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=800&lines=Laravel+%2F+Tailwind+CSS+%2F+PHP+%2F+Python+%2F+JavaScript;PostgreSQL+%2F+MySQL+%2F+C%23+%2F+Solidity+(learning)+%2F+AI+Lab+Assistant" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-blue" alt="Pronouns" />
+  <img src="https://img.shields.io/badge/Student-Semester%205%20IS-orange" alt="Status" />
+  <img src="https://img.shields.io/badge/Verified-%E2%9C%94-green" alt="Verified Badge" />
+</p>
+
 ---
 
 🔭 **Currently working on:**  
 - Web & mobile development project: `StorEase` (wedding organizer platform)  
 - Blockchain fundamentals using **Solidity**  
 - Business & data analysis for entrepreneurship projects  
+- Academic support & data-driven research as an **AI Laboratory Assistant**  
 
 🌱 **Currently learning:**  
 - Smart contract development  

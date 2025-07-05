@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Junior Fullstack Developer | System Analyst | Aspiring Blockchain & Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=Laravel+%2F+Tailwind+%2F+PHP+%2F+Python+%2F+JS;PostgreSQL+%2F+MySQL+%2F+C%23+%2F+Solidity+(learning)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=800&lines=Laravel+%2F+Tailwind+CSS+%2F+PHP+%2F+Python+%2F+JavaScript;PostgreSQL+%2F+MySQL+%2F+C%23+%2F+Solidity+(learning)+%2F+AI+Lab+Assistant" alt="Typing SVG" />
 </p>
 
 ---
